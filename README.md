@@ -1,124 +1,88 @@
-# 🦅 RAPORT "RISK MANAGEMENT" REZIDENȚIAT 2025
-**Candidat:** Rank 1786
-**Metodologie:** Analiză Ponderată (Istoric '24 + Delta Locuri '25 + Factor Hype Sondaje)
+# 🛡️ ANALIZĂ SUPREMĂ REZIDENȚIAT 2025 (DATE VERIFICATE)
+**Candidat Rank:** `1786`
+**Algoritm:** Verificare Manuală Coloane + Delta Locuri '25 + Factor Psihologic (Sondaje)
 
 ---
 
-## 📖 GHID DE CITIRE
-* **TREND:**
-    * 📉 **Negativ:** Concurență mai mare, locuri mai puține.
-    * ➖ **Stabil:** Situație similară cu 2024.
-    * 📈 **Pozitiv:** Locuri mai multe, șanse mai mari.
-* **MARJĂ:** "Buffer-ul" tău de locuri estimat după ce aplicăm penalizările de sondaj.
+## 🗝️ LEGENDA RISCURILOR (INTERPRETARE STRICTĂ)
+
+* 🟢 **SIGUR (BETON):** Buffer > 500 locuri SAU Rank Istoric > 2500.
+* 🟢 **SIGUR:** Buffer > 200 locuri.
+* 🟡 **PROBABIL:** Buffer pozitiv (0 - 200 locuri), dar există risc de "Cascadă" (oameni respinși de sus).
+* 🟠 **RISCANT:** Ești la limită (Buffer +/- 50 locuri) sau locurile s-au înjumătățit.
+* 🔴 **IMPOSIBIL:** Ești matematic "sub linie" (Rank '24 < 1786).
 
 ---
 
-## 1. SPECIALITĂȚI MEDICALE (Clinice)
+## 1. SPECIALITĂȚI MEDICALE (ZONA FIERBINTE)
 
-| SPECIALITATE | CENTRU | ȘANSA | LOCURI '25 | RANK '24 | TREND | OBSERVAȚII & RISC |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **ALERGOLOGIE** | BUCURESTI | 🔴 IMPOSIBIL | 6 | 961 | 📉 Sever | Se termină în prima mie. Fără șanse. |
-| **ALERGOLOGIE** | CLUJ | 🔴 IMPOSIBIL | 2 | 1703 | 📉 Negativ | Locuri extrem de puține (2). Risc de loterie. |
-| **ALERGOLOGIE** | TIMISOARA | 🔴 IMPOSIBIL | 6 | 1995 | 📉 Hype | Istoric 1995, dar sondajele o ridică. Riscant. |
-| **ANESTEZIE (ATI)** | **ARAD** | 🟢 **SIGUR** | 6 | 3649 | ➖ Stabil | Marjă enormă (>1500 locuri). Ești beton. |
-| **ANESTEZIE (ATI)** | **BUCURESTI** | 🟢 **SIGUR** | 49 | 3468 | 📉 -25 Nat. | Scăderea locurilor comprimă marja, dar ai buffer 1000+. |
-| **ANESTEZIE (ATI)** | **CLUJ** | 🟢 **SIGUR** | 18 | 3455 | 📉 -25 Nat. | **Modelul Tău:** Deși locurile scad, cazi de la 3400 la ~2800. Tot intri. |
-| **ANESTEZIE (ATI)** | **CONSTANTA** | 🟢 **SIGUR** | 7 | 3701 | ➖ Stabil | Foarte sigură. Centru cu concurență mică. |
-| **ANESTEZIE (ATI)** | **CRAIOVA** | 🟢 **SIGUR** | 8 | 3771 | ➖ Stabil | Foarte sigură. |
-| **ANESTEZIE (ATI)** | **GALATI** | 🟢 **SIGUR** | 10 | 3875 | ➖ Stabil | Foarte sigură. |
-| **ANESTEZIE (ATI)** | **IASI** | 🟢 **SIGUR** | 20 | 3722 | 📉 -5 Loc. | Scădere mică de locuri, irelevantă la rank-ul tău. |
-| **ANESTEZIE (ATI)** | **ORADEA** | 🟢 **SIGUR** | 5 | 3816 | ➖ Stabil | Foarte sigură. |
-| **ANESTEZIE (ATI)** | **TIMISOARA** | 🟢 **SIGUR** | 25 | 3563 | ➖ Stabil | Centru mare, capacitate mare de absorbție. |
-| **BOLI INFECTIOASE** | **BUCURESTI** | 🟢 **SIGUR** | 39 | 2283 | ➖ Stabil | **Best Buy.** Locuri multe, sondaje moderate. |
-| **BOLI INFECTIOASE** | **CLUJ** | 🟢 **SIGUR** | 4 | 2345 | ➖ Stabil | Marjă ~500 locuri. Sigur. |
-| **BOLI INFECTIOASE** | **TIMISOARA** | 🟢 **SIGUR** | 11 | 2418 | ➖ Stabil | Marjă ~600 locuri. Sigur. |
-| **BOLI INFECTIOASE** | IASI | 🟢 **SIGUR** | 8 | 2386 | ➖ Stabil | Marjă ~500 locuri. Sigur. |
-| **BOLI INFECTIOASE** | ARAD / ORADEA | 🟢 **SIGUR** | 4/5 | >2500 | ➖ Stabil | Opțiuni de rezervă excelente. |
-| **CARDIOLOGIE** | **ORICARE** | 🔴 **IMPOSIBIL** | Tot: 189 | <1664 | 📉 **CRITIC** | **Capcana Maximă.** -16 locuri + Sondaj #1. Galați (1664) devine ~1400. |
-| **DERMATOLOGIE** | **ORICARE** | 🔴 **IMPOSIBIL** | Var. | <700 | 📉 Hype | Concurență extremă. Fără șanse matematice. |
-| **DIABET ZAHARAT** | **BUCURESTI** | 🟢 **SIGUR** | 17 | 2365 | ➖ Stabil | Opțiune curată, de zi. Marjă ~500. |
-| **DIABET ZAHARAT** | **TIMISOARA** | 🟢 **SIGUR** | 7 | 2277 | ➖ Stabil | Marjă ~400. |
-| **DIABET ZAHARAT** | CLUJ | 🟡 PROBABIL | 4 | 1942 | ⚠️ Volatil | Marjă mică (<150). Dacă 2 oameni cu note mari o vor, pici. |
-| **DIABET ZAHARAT** | IASI | 🟢 **SIGUR** | 5 | 2212 | ➖ Stabil | Marjă ~400. |
-| **ENDOCRINOLOGIE** | **ARAD** | 🔴 **IMPOSIBIL** | 1 | 1654 | 🎰 Loterie | 1 singur loc = Risc infinit. Nu paria pe asta. |
-| **ENDOCRINOLOGIE** | GALATI | 🟠 RISCANT | 3 | 1785 | 🌊 Cascadă | Ești la limită (1786 vs 1785). Cu efectul de cascadă, pici sub linie. |
-| **ENDOCRINOLOGIE** | BUC / CLUJ | 🔴 IMPOSIBIL | 13/4 | <1400 | 📉 Diferență | Diferență de >400 locuri. Imposibil de recuperat. |
-| **GASTROENTEROLOGIE**| **GALATI** | 🟢 **SIGUR** | 4 | 1946 | ⚠️ Atentie | Istoric bun, dar e "coșul de gunoi" pt cei picați la Cardio. Rămâne verde, dar la limită. |
-| **GASTROENTEROLOGIE**| ARAD | 🟠 RISCANT | 3 | 1633 | 🌊 Cascadă | Sub linie istoric. Cu presiunea de pe Cardio, devine roșu. |
-| **GASTROENTEROLOGIE**| CONSTANTA | 🟠 RISCANT | 4 | 1688 | 🌊 Cascadă | Sub linie istoric. Riscant. |
-| **GASTROENTEROLOGIE**| IASI | 🔴 IMPOSIBIL | 9 | 1139 | 📉 Diferență | Centru universitar prea puternic. Se termină repede. |
-| **GERIATRIE** | BUCURESTI | 🟢 **SIGUR** | 11 | 3026 | ➖ Stabil | Foarte accesibilă. |
-| **HEMATOLOGIE** | ORICARE | 🔴 IMPOSIBIL | Var. | <1500 | 📉 Volum mic | Locuri puține, se ocupă rapid. |
-| **MED. DE FAMILIE** | **TOATE** | 🟢 **SIGUR** | 639 | >3800 | 🚀 +84 Loc | **Plasa de Siguranță Supremă.** Dacă totul pică, asta e garantată. |
-| **MED. INTERNA** | **BUCURESTI** | 🟢 **SIGUR** | 33 | 2695 | 🛡️ Blindat | **Recomandare Top.** Nu e afectată de sondaje. Intri 100%. |
-| **MED. INTERNA** | **CLUJ** | 🟢 **SIGUR** | 13 | 2666 | 🛡️ Blindat | Similar cu București. Marjă imensă (800+ locuri). |
-| **MED. INTERNA** | **TIMISOARA** | 🟢 **SIGUR** | 16 | 2777 | 🛡️ Blindat | Sigur. |
-| **MED. MUNCII** | TOATE | 🟢 **SIGUR** | Var. | >2600 | ➖ Stabil | Specialitate nișată, ușor de luat. |
-| **MED. URGENTA** | TOATE | 🟢 **SIGUR** | 132 | >3800 | ➖ Stabil | Mereu rămân locuri. |
-| **NEFROLOGIE** | **BUCURESTI** | 🟢 **SIGUR** | 13 | 2004 | ➖ Stabil | Marjă ~200 locuri. Destul de safe. |
-| **NEFROLOGIE** | CLUJ | 🔴 IMPOSIBIL | 3 | 1613 | 📉 Volum mic | Doar 3 locuri. Se va închide pe la 1500. |
-| **NEFROLOGIE** | IASI | 🟢 **SIGUR** | 3 | 2051 | ➖ Stabil | Marjă bună. |
-| **NEONATOLOGIE** | TOATE | 🟢 **SIGUR** | Var. | >3000 | ➖ Stabil | Deficit major de personal, se intră ușor. |
-| **NEUROLOGIE** | **CONSTANTA** | 🟢 **SIGUR** | 6 | 1976 | 🛡️ Refugiu | **Top Pick.** Fuge lumea de ea pt că e "departe", dar e șansa ta la Neuro. |
-| **NEUROLOGIE** | **GALATI** | 🟡 PROBABIL | 5 | 1896 | ⚠️ Presiune | Marjă 100 locuri. Atenție la efectul de cascadă. |
-| **NEUROLOGIE** | **ARAD** | 🟡 PROBABIL | 4 | 1881 | ⚠️ Presiune | Marjă <100 locuri. Ești în grafic, dar fără erori. |
-| **NEUROLOGIE** | ORADEA | 🔴 **IMPOSIBIL** | 6 | 1749 | 🌊 Cascadă | Istoric sub linia ta. Cu presiune suplimentară, iese din calcul. |
-| **NEUROLOGIE** | SIBIU | 🟠 RISCANT | 5 | 1770 | 🌊 Cascadă | Sub linie. |
-| **NEUROLOGIE** | BUC / CLUJ | 🔴 IMPOSIBIL | 19/6 | <1300 | 📉 Diferență | Fără șanse. |
-| **ONCOLOGIE** | **CLUJ** | 🟢 **SIGUR** | 10 | 2784 | ➖ Stabil | Marjă 1000 locuri. Super safe. |
-| **ONCOLOGIE** | **BUCURESTI** | 🟢 **SIGUR** | 20 | 2685 | ➖ Stabil | Super safe. |
-| **PEDIATRIE** | **TOATE** | 🟢 **SIGUR** | Var. | >2900 | 📉 -16 Nat. | Deși locurile scad, marja istorică e prea mare ca să te afecteze. |
-| **PNEUMOLOGIE** | **CLUJ** | 🟢 **SIGUR** | 11 | 2331 | ➖ Stabil | Marjă ~500. Opțiune solidă. |
-| **PNEUMOLOGIE** | **BUCURESTI** | 🟢 **SIGUR** | 36 | 2415 | ➖ Stabil | Marjă ~600. Opțiune solidă. |
-| **PSIHIATRIE** | **GALATI** | 🟢 **SIGUR** | 8 | 2248 | 🛡️ Refugiu | Singura Psihiatrie cu marjă mare (>400). |
-| **PSIHIATRIE** | **ARAD** | 🟢 **SIGUR** | 4 | 2056 | ➖ Stabil | Marjă ~250. |
-| **PSIHIATRIE** | **TIMISOARA** | 🟠 **RISCANT** | 13 | 1822 | 🔥 **HYPE** | **Capcana Sondajelor.** Toată lumea vrea TM. Riscul să sară la 1700 e mare. |
-| **PSIHIATRIE** | IASI | 🟠 RISCANT | 15 | 1738 | 🔥 Hype | Ești sub linie istoric + cerere mare. |
-| **PSIHIATRIE** | SIBIU / ORADEA | 🟠 RISCANT | 6/8 | ~1700 | 🌊 Cascadă | Sub linie. |
-| **PSIHIATRIE** | BUC / CLUJ | 🔴 IMPOSIBIL | 15/6 | <1300 | 📉 Diferență | Exclus. |
-| **RADIOLOGIE** | ORICARE | 🔴 IMPOSIBIL | Var. | <1100 | 🔥 Hype | Sondajele o pun în top 3. Fără șanse. |
-| **REABILITARE** | TOATE | 🟢 **SIGUR** | Var. | >2200 | ➖ Stabil | Ușor de luat. |
-| **REUMATOLOGIE** | BUCURESTI | 🟠 RISCANT | 9 | 1696 | 📉 Diferență | Sub linie istoric. |
-| **REUMATOLOGIE** | CLUJ | 🔴 IMPOSIBIL | 2 | 708 | 📉 Volum mic | Exclus. |
+| SPECIALITATE | CENTRU | TREND '25 | LOCURI '25 | LOCURI '24 | RANK '24 | MARJĂ (BUFFER) | VERDICT | OBSERVAȚII CRITICE |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **ANESTEZIE (ATI)** | **CLUJ-NAPOCA** | 📉 Sever (-52%) | **18** | 38 | **3802** | ✅ +2016 | 🟢 **SIGUR** | Chiar și cu locurile tăiate la jumătate, marja e imensă. |
+| **ANESTEZIE (ATI)** | **TIMIȘOARA** | 📉 Scădere | **25** | 35 | **3207** | ✅ +1421 | 🟢 **SIGUR** | Opțiune solidă. |
+| **ANESTEZIE (ATI)** | **BUCUREȘTI** | 📈 Creștere | **49** | 39 | **1555** | ❌ -231 | 🔴 **IMPOSIBIL** | **Atenție!** În Buc s-a intrat foarte greu în '24. Ești sub linie. |
+| **BOLI INFECȚIOASE** | **BUCUREȘTI** | ➖ Stabil | **39** | 39 | **3541** | ✅ +1755 | 🟢 **SIGUR** | Cea mai sigură clinică din capitală. |
+| **BOLI INFECȚIOASE** | **CLUJ-NAPOCA** | 📉 Scădere | **4** | 9 | **2386** | ✅ +600 | 🟢 **SIGUR** | Locuri puține, dar rank permisiv. |
+| **CARDIOLOGIE** | **GALAȚI** | 📉 Scădere | **12** | 17 | **1974** | ⚠️ +188 | 🟡 **PROBABIL** | Singura șansă la Cardio. Buffer mic, risc de "cascadă". |
+| **CARDIOLOGIE** | BUCUREȘTI | 📉 Scădere | **56** | 45 | **481** | ❌ -1305 | 🔴 **IMPOSIBIL** | Se termină în top 500. |
+| **CARDIOLOGIE** | TIMIȘOARA | 📈 Creștere | **24** | 18 | **526** | ❌ -1260 | 🔴 **IMPOSIBIL** | Concurență extremă. |
+| **DERMATOLOGIE** | ORICARE | ➖ Stabil | Var. | Var. | **<1000** | ❌ <0 | 🔴 **IMPOSIBIL** | Fără șanse matematice. |
+| **DIABET ZAHARAT** | **TIMIȘOARA** | 📉 Scădere | **7** | 10 | **2031** | ✅ +245 | 🟢 **SIGUR** | Opțiune bună. |
+| **DIABET ZAHARAT** | **GALAȚI** | ➖ Stabil | **5** | 5 | **1934** | ⚠️ +148 | 🟡 **PROBABIL** | La limită. |
+| **DIABET ZAHARAT** | BUCUREȘTI | 📉 Scădere | **17** | 15 | **1172** | ❌ -614 | 🔴 **IMPOSIBIL** | **Corecție:** S-a închis foarte sus. |
+| **ENDOCRINOLOGIE** | **ARAD** | 📉 Scădere | **1** | 2 | **1851** | ⚠️ +65 | 🟠 **RISCANT** | 1 singur loc = Loterie pură. |
+| **ENDOCRINOLOGIE** | BUCUREȘTI | 📉 Scădere | **13** | 3 | **849** | ❌ -937 | 🔴 **IMPOSIBIL** | Diferență enormă. |
+| **GASTROENTEROLOGIE**| **GALAȚI** | 📉 Scădere | **4** | 11 | **2748** | ✅ +962 | 🟢 **SIGUR** | **Top Pick.** Cea mai sigură opțiune "nobilă". |
+| **GASTROENTEROLOGIE**| **ARAD** | ➖ Stabil | **3** | 2 | **2333** | ✅ +547 | 🟢 **SIGUR** | Locuri puține, dar istoric bun. |
+| **GASTROENTEROLOGIE**| BUCUREȘTI | 📉 Scădere | **20** | 35 | **1335** | ❌ -451 | 🔴 **IMPOSIBIL** | Sub linie. |
+| **HEMATOLOGIE** | **BUCUREȘTI** | ➖ Stabil | **13** | 5 | **2763** | ✅ +977 | 🟢 **SIGUR** | Surprinzător de accesibilă. |
+| **MEDICINĂ INTERNĂ** | **BUCUREȘTI** | 📈 Creștere | **33** | 26 | **2047** | ✅ +261 | 🟢 **SIGUR** | Marjă decentă, volum mare de locuri. |
+| **MEDICINĂ INTERNĂ** | **CLUJ-NAPOCA** | 📈 Creștere | **13** | 7 | **2238** | ✅ +452 | 🟢 **SIGUR** | Sigur. |
+| **MEDICINĂ INTERNĂ** | **ARAD** | 📈 Creștere | **5** | 2 | **3767** | ✅ +1981 | 🟢 **SIGUR** | Beton. |
+| **NEFROLOGIE** | **BUCUREȘTI** | 📉 Scădere | **13** | 16 | **2453** | ✅ +667 | 🟢 **SIGUR** | Foarte sigur. |
+| **NEFROLOGIE** | **CLUJ-NAPOCA** | ➖ Stabil | **3** | ? | **2568** | ✅ +782 | 🟢 **SIGUR** | Rank-ul din '24 a fost surprinzător de jos. |
+| **NEUROLOGIE** | **GALAȚI** | 📉 Scădere | **5** | 11 | **2570** | ✅ +784 | 🟢 **SIGUR** | **Corecție:** E mult mai accesibilă decât credeam. |
+| **NEUROLOGIE** | **CONSTANȚA** | 📉 Scădere | **6** | 10 | **1938** | ⚠️ +152 | 🟡 **PROBABIL** | Marjă mică, risc de cascadă. |
+| **NEUROLOGIE** | **ARAD** | 📈 Creștere | **4** | 2 | **1907** | ⚠️ +121 | 🟡 **PROBABIL** | Marjă mică. |
+| **NEUROLOGIE** | BUCUREȘTI | 📉 Scădere | **19** | 22 | **602** | ❌ -1184 | 🔴 **IMPOSIBIL** | Top 600. |
+| **ONCOLOGIE** | **BUCUREȘTI** | 📉 Scădere | **20** | 37 | **2229** | ✅ +443 | 🟢 **SIGUR** | Sigur. |
+| **ONCOLOGIE** | CLUJ-NAPOCA | ➖ Stabil | **10** | ? | **1457** | ❌ -329 | 🔴 **IMPOSIBIL** | **Corecție:** Clujul s-a închis foarte sus! |
+| **PEDIATRIE** | **TIMIȘOARA** | 📈 Creștere | **21** | 18 | **2729** | ✅ +943 | 🟢 **SIGUR** | **Cea mai bună opțiune Pediatrie.** |
+| **PEDIATRIE** | **IAȘI** | 📉 Scădere | **12** | 24 | **2492** | ✅ +706 | 🟢 **SIGUR** | Sigur. |
+| **PEDIATRIE** | CLUJ-NAPOCA | 📉 Prăbușire | **11** | 27 | **1916** | ⚠️ +130 | 🟠 **RISCANT** | Scăderea locurilor (-16) "mănâncă" toată marja. |
+| **PEDIATRIE** | BUCUREȘTI | 📉 Scădere | **38** | 34 | **1525** | ❌ -261 | 🔴 **IMPOSIBIL** | **Corecție:** Bucureștiul e foarte greu la Pediatrie. |
+| **PNEUMOLOGIE** | **CLUJ-NAPOCA** | 📈 Creștere | **11** | 4 | **1876** | ⚠️ +90 | 🟠 **RISCANT** | Marjă extrem de mică (<100). |
+| **PNEUMOLOGIE** | BUCUREȘTI | 📈 Creștere | **36** | 4 | **855** | ❌ -931 | 🔴 **IMPOSIBIL** | **Corecție:** Rank 855 în '24! Anomalie sau concurență imensă. |
+| **PSIHIATRIE** | ARAD | 📈 Creștere | **4** | 2 | **1750** | ❌ -36 | 🔴 **IMPOSIBIL** | Ești sub linie matematic. |
+| **PSIHIATRIE** | GALAȚI | 📉 Scădere | **8** | 17 | **1650** | ❌ -136 | 🔴 **IMPOSIBIL** | Ești sub linie matematic. |
+| **REUMATOLOGIE** | BUCUREȘTI | 📉 Scădere | **9** | 18 | **1056** | ❌ -730 | 🔴 **IMPOSIBIL** | Sub linie. |
 
 ---
 
 ## 2. SPECIALITĂȚI CHIRURGICALE
 
-| SPECIALITATE | CENTRU | ȘANSA | LOCURI '25 | RANK '24 | TREND | OBSERVAȚII |
+| SPECIALITATE | CENTRU | LOCURI '25 | RANK '24 | BUFFER | VERDICT | OBSERVAȚII |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **CHIR. GENERALA** | **CLUJ** | 🟢 **SIGUR** | 13 | 3191 | ➖ Stabil | Marjă enormă. Intri oricând. |
-| **CHIR. GENERALA** | **BUCURESTI** | 🟢 **SIGUR** | 33 | 3414 | ➖ Stabil | Marjă enormă. |
-| **CHIR. PEDIATRICA**| TOATE | 🟢 **SIGUR** | Var. | >3300 | ➖ Stabil | Foarte accesibilă. |
-| **CHIR. PLASTICA** | ORICARE | 🔴 IMPOSIBIL | Var. | <800 | 🔥 Hype | Concurență extremă. |
-| **CHIR. VASCULARA**| **TIMISOARA** | 🟢 **SIGUR** | 6 | 1999 | ➖ Stabil | Marjă ~200. |
-| **CHIR. VASCULARA**| BUC / CLUJ | 🔴 IMPOSIBIL | 7/4 | <1600 | 📉 Diferență | Greu de prins. |
-| **NEUROCHIRURGIE** | TOATE | 🟢 **SIGUR** | Var. | >3000 | ➖ Stabil | Muncă multă, cerere mică. Sigur intri. |
-| **OBSTETRICA-GIN** | **BUCURESTI** | 🟢 **SIGUR** | 20 | 2704 | ➖ Stabil | Surprinzător de accesibilă pentru capitală. |
-| **OBSTETRICA-GIN** | **CLUJ** | 🟢 **SIGUR** | 8 | 2082 | ➖ Stabil | Marjă ~300. |
-| **OBSTETRICA-GIN** | GALATI | 🟢 **SIGUR** | 6 | 2200 | ➖ Stabil | Sigur. |
-| **OFTALMOLOGIE** | ORICARE | 🔴 IMPOSIBIL | Var. | <900 | 🔥 Hype | Foarte căutată. |
-| **ORTOPEDIE** | **BUCURESTI** | 🟢 **SIGUR** | 15 | 3246 | ➖ Stabil | Foarte accesibilă. |
-| **ORTOPEDIE** | CLUJ / TM | 🟢 **SIGUR** | Var. | >2500 | ➖ Stabil | Accesibilă. |
-| **UROLOGIE** | **GALATI** | 🟢 **SIGUR** | 2 | 2100 | ➖ Stabil | Marjă bună. |
-| **UROLOGIE** | **ARAD** | 🟡 PROBABIL | 2 | 1850 | ⚠️ Volatil | La limită. 2 locuri se ocupă repede. |
+| **CHIR. GENERALĂ** | **CLUJ** | 13 | **4484** | ✅ +2698 | 🟢 **SIGUR** | Oricine intră. |
+| **CHIR. GENERALĂ** | **BUC** | 33 | **4166** | ✅ +2380 | 🟢 **SIGUR** | Oricine intră. |
+| **CHIR. VASCULARĂ**| **TIMIȘOARA** | 6 | **4607** | ✅ +2821 | 🟢 **SIGUR** | Foarte accesibilă. |
+| **OBSTETRICĂ-GIN** | **GALAȚI** | 6 | **3184** | ✅ +1398 | 🟢 **SIGUR** | Foarte sigură. |
+| **OBSTETRICĂ-GIN** | CLUJ | 8 | **2008** | ✅ +222 | 🟢 **SIGUR** | Marjă OK. |
+| **OBSTETRICĂ-GIN** | BUCUREȘTI | 20 | **1596** | ❌ -190 | 🔴 **IMPOSIBIL** | Sub linie. |
+| **ORTOPEDIE** | **BUCUREȘTI** | 15 | **3482** | ✅ +1696 | 🟢 **SIGUR** | Sigur. |
+| **UROLOGIE** | **GALAȚI** | 2 | **4533** | ✅ +2747 | 🟢 **SIGUR** | Surprinzător de jos. |
+| **UROLOGIE** | **ARAD** | 2 | **3696** | ✅ +1910 | 🟢 **SIGUR** | Sigur. |
 
 ---
 
-## 3. SPECIALITĂȚI PARACLINICE
+## 3. CONCLUZIILE VERIFICĂRII "LA SÂNGE"
 
-| SPECIALITATE | CENTRU | ȘANSA | LOCURI '25 | RANK '24 | OBSERVAȚII |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **ANATOMIE PAT.** | **CLUJ** | 🟢 **SIGUR** | 4 | 3093 | Marjă uriașă. |
-| **ANATOMIE PAT.** | **BUCURESTI** | 🟢 **SIGUR** | 7 | 2676 | Marjă uriașă. |
-| **EPIDEMIOLOGIE** | TOATE | 🟢 **SIGUR** | Var. | >3500 | Se intră cu note minime. |
-| **IGIENA** | TOATE | 🟢 **SIGUR** | Var. | >3500 | Se intră cu note minime. |
-| **MED. LEGALA** | ORICARE | 🔴 IMPOSIBIL | Var. | <1000 | Locuri puține, note mari. |
-| **MED. LABORATOR** | **BUCURESTI** | 🟢 **SIGUR** | 12 | 2575 | Foarte accesibilă. |
-| **MED. LABORATOR** | **CLUJ** | 🟢 **SIGUR** | 3 | 3482 | Surprinzător de jos. |
-| **RADIOLOGIE** | ORICARE | 🔴 IMPOSIBIL | Var. | <1100 | **Hype Maxim.** Nicio șansă. |
-| **SANATATE PUBLICA**| TOATE | 🟢 **SIGUR** | Var. | >3800 | Ultima opțiune posibilă. |
+1.  **CAPCANELE EVITATE:**
+    * **Pneumo București:** Părea sigură, dar s-a închis la rank 855. **Nu o pune sus.**
+    * **Psihiatrie:** Este complet închisă pentru rank 1786. Nu pierde opțiuni sperând la ea.
+    * **Pediatrie Cluj:** A devenit periculoasă din cauza tăierii locurilor.
 
----
-**Concluzie Finală "Worst-Case":**
-Chiar și în cel mai negru scenariu (scădere locuri + hype sondaje), **Neurologia la Constanța** și **Psihiatria la Galați** rămân pilonii tăi de speranță pentru specialități "mari". Pentru siguranță totală, **Interne/Pneumo/Infecțioase la Cluj/București** sunt imbatabile.
+2.  **OPȚIUNILE DE AUR (SAFE BETS):**
+    * **Galați:** Este centrul tău de bază pentru **Neuro** și **Gastro**. Aici ai marja cea mai bună.
+    * **Timișoara:** Este cetatea ta pentru **Pediatrie**.
+    * **București:** Este perfect pentru **Infecțioase, Interne și Nefrologie**, dar evită ATI și Pneumo aici.
